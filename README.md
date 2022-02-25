@@ -361,4 +361,5 @@ if (to.path === '/user/user') {
 
 到此后台开发中最常用的操作已经介绍完毕，对于一些小项目已经是绰绰有余。花盆里长不出参天松，庭院里练不出千里马，项目写得多了很多东西就自然而然的通透了。一千个读者就有一千个哈姆雷特，这只是一个基础框架，在开发的过程，需要我们自己对其修改，让它成为你自己最顺手的框架。
 
-> 此项目演绎自： https://github.com/PanJiaChen/vue-admin-template.git
+> 此项目演绎自： https://github.com/PanJiaChen/vue-admin-template.git#   F a l l - D e t e c t i o n - A s h e n - o n e -  
+ 
